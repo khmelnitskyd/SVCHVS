@@ -31,3 +31,9 @@
 
 ------------
 ##### Belarusian-Russian University (Informatics and Computer Engineering)
+------------
+# Additional Information
+
+------------
+
+##### - English level - Pre-Intermediate (A2)
