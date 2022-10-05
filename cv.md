@@ -37,3 +37,4 @@
 ------------
 
 ##### - English level - Pre-Intermediate (A2)
+![image](https://github.com/khmelnitskyd/SVCHVS/blob/lab1/photo.jpg?raw=true)
